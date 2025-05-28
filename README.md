@@ -30,9 +30,9 @@ To explore which cakes contributed the most to revenue and profit, and whether d
 
 ## 📁 Files
 
-- `Sweet_Tooth_Bakery .png` — Main Excel file with analysis and dashboard
-- `Sweet_Tooth_Bakery_2025.xlsx` — Mock sales dataset
-- `Dashboard_Sweet_Tooth_Bakery.png` — Preview of the dashboard
+- `e:\DATA ANALYSIS 2025\Sweet_Tooth_Bakery .png `— Main Excel file with analysis and dashboard
+- `e:\DATA ANALYSIS 2025\Sweet_Tooth_Bakery_2025.xlsx` — Mock sales dataset
+- `e:\DATA ANALYSIS 2025\Dashboard_Sweet_Tooth_Bakery.png` — Preview of the dashboard
 
 ---
 
