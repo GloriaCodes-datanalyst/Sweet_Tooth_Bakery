@@ -29,6 +29,9 @@ To explore which cakes contributed the most to revenue and profit, and whether d
 ---
 
 ## 📁 Files
+- 📊 [Download Dashboard (Dashboard_Sweet_Tooth_Bakery.png)](https://github.com/GloriaCodes-datanalyst/Sweet_Tooth_Bakery/blob/main/Dashboard_Sweet_Tooth_Bakery.png)
+- 🧮 [Download Working Sheet (Sweet_Tooth_Bakery_worksheet.xlsx)](https://github.com/GloriaCodes-datanalyst/Sweet_Tooth_Bakery/blob/main/Sweet_Tooth_Bakery_worksheet.xlsx)
+
 
 - `https://github.com/GloriaCodes-datanalyst/Sweet_Tooth_Bakery/blob/main/Sweet_Tooth_Bakery_2024.xlsx`— Main Excel file with analysis and dashboard
 - `e:\DATA ANALYSIS 2025\Sweet_Tooth_Bakery_2025.xlsx` — Mock sales dataset
